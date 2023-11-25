@@ -1,0 +1,16 @@
+{
+    "curseFiles": [
+        {
+            "projectID": 228756,
+            "fileID": 3068784
+        }
+    ],
+    "mods": [
+        {
+            "name": "JourneyMap",
+            "downloadURL": "https://url.com/launcher/mods/JourneyMap.jar",
+            "sha1": "eef74b3fbab6400cb14b02439cf092cca3c2125c",
+            "size": 1234
+        }
+    ]
+}
